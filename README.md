@@ -15,5 +15,6 @@ Hi there! 👋 I'm an enthusiastic Full Stack Software Developer who loves codin
 ---
 [![](https://visitcount.itsvg.in/api?id=pranay-23&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🏆 Open Source Achievements
 [![An image of @pranay23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranay23)](https://holopin.io/@pranay23)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
